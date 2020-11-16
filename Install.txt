@@ -4,23 +4,24 @@ Copyright © 2020 Data Pantheon
 
 SOFTWARE INSTALLATION GUIDE
 
-The BiToolkits Installation is simple and easy.  There are no complicated installation steps or Windows registry updates.  All you need is an Unzip program such as 7zip (free open source).
+The BiToolkits Installation is simple and easy.  There are no complicated steps or Windows registry updates.  All you need is to copy files into a folder.
 
 SYSTEM REQUIREMENTS
 
 The minimum hardware requirement is Intel x86 Pentium (or compatible) CPU with 4 GB RAM and 100 MB of free disk space and with minimum screen resolution of 1280 x 800.  The machine must run Windows XP or higher.  The software has been tested on a variety of Windows devices, including PCs, Laptops, and Tablets.
 
-To be able to use this software, you need Microsoft® Access 2007 or higher (must be 32bit version).  If you don't have Microsoft Access, please install a free version of Access Runtime (see link below).  For multi-user setup, install runtime on each user's workstation.
+To be able to use this software, you need Microsoft® Access 2007 or higher (must be 32bit version).  If you don't have Microsoft Access, please install a free version of Access Runtime (see link below).  For multi-user setup, each workstation station must have MS Access 2007 or Access Runtime below.
 •	Download and install latest version of Microsoft Access 32bit Runtime (AccessRuntime_x86_en-us.exe) from Microsoft website https://www.microsoft.com/en-us/download/details.aspx?id=39358
 
 DATABASE REQUIREMENTS
 
 BiToolkits has its own database which connects to your MicroStrategy metadata databases (Intelligent Server, History List, Enterprise Manager, Narrowcast Server) for READ ONLY access.  It does not access your data warehouse database.
 
-BiToolkits supports following databases.  More database support will be added in the future.
+BiToolkits supports following databases. Please note your metadata database may be different from your data warehouse database.
 •	Oracle 11gR2 (or higher)
 •	Microsoft SQL Server 2008R2 (or higher)
 •	MySQL 8.0 (or higher)
+•	PostgreSQL 9.1 (or higher)
 
 BiToolkits requires a database account with following permissions:
 •	View/Select permission to all MicroStrategy metadata tables
@@ -31,13 +32,13 @@ INSTALLATION STEPS
 (Please consult the BiToolkits Users Manual for more details) 
 
 Single User Installation:
-1.	Create C:\BiToolkits folder or any desire folder name and location (must have Read and Write permissions) and unzip all files there. Note if you are not using C:\BiToolkits folder, you will be prompted for the BiToolkits database location the first time you run the software.
+1.	Create C:\BiToolkits folder or any desire folder name and location (must have Read and Write permissions) and copy all files there. Note if you are not using C:\BiToolkits folder, you will be prompted for the BiToolkits database location the first time you run the software.
 2. 	If you have purchased BiToolkits, you will need to copy the license file (BiToolkits.lic - sent to you by e-mail) into the same folder.
 3.	Double click BiToolkits.accde to launch the program. If you have purchased BiToolkits, you will be prompted to enter the Unlock Code (sent to you by e-mail); otherwise, you will be prompted to generate a Free version license file or a Pro version 30 day trial license file.
 4.	Done.
 
 Multi-user Installation:
-1.	Unzip the software into a desire network share folder (you must have Read and Write permissions). Remember this folder location as you will be prompted for it when you run BiToolkits for the first time and are prompted to specify the location of the BiToolkits database.
+1.	Copy the software into a desire network share folder (you must have Read and Write permissions). Remember this folder location as you will be prompted for it when you run BiToolkits for the first time and are prompted to specify the location of the BiToolkits database.
 2.	If you have purchased BiToolkits, you will need to copy the license file (BiToolkits.lic - sent to you by e-mail) into the same folder.
 3.	For best performance, each user should have a separate copy of the BiToolkits.accde program along with "BiToolkits License Agreement.pdf" and "BiToolkits Privacy Statement.pdf" installed on his/her workstation or in a personal folder on the network (with both Read and Write permissions). The BiToolkits database and rest of the files will be shared on the network folder.
 4.	The first user to launch the software (BiToolkits.accde) is the default administrator responsible for initial setup of user accounts and MicroStrategy environments. Double click BiToolkits.accde to launch the program. If you have purchased BiToolkits, you will be prompted to enter the Unlock Code (sent to you by e-mail); otherwise, you will be prompted to to generate a Free version license file or a Pro version 30 day trial license file.
@@ -45,7 +46,7 @@ Multi-user Installation:
 6.	Done.
 
 
-File List:
+FILE LIST
 
 BiToolkits App Icon.ico
 BiToolkits FAQ.pdf
