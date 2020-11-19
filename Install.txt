@@ -20,7 +20,7 @@ BiToolkits has its own database which connects to your MicroStrategy metadata da
 BiToolkits supports following databases. Please note your metadata database may be different from your data warehouse database.
 •	Oracle 11gR2 (or higher)
 •	Microsoft SQL Server 2008R2 (or higher)
-•	MySQL 8.0 (or higher)
+•	MySQL 8.0 or MariaDB 10.2.2 (or higher)
 •	PostgreSQL 9.1 (or higher)
 
 BiToolkits requires a database account with following permissions:
