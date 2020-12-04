@@ -50,6 +50,7 @@ FILE LIST
 
 BiToolkits App Icon.ico
 BiToolkits FAQ.pdf
+BiToolkits Feature Summary.pdf
 BiToolkits License Agreement.pdf
 BiToolkits Privacy Statement.pdf
 BiToolkits Users Manual.pdf
