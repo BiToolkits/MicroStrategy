@@ -1,10 +1,8 @@
-<h2 style='margin-top:10.0pt;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:17px;font-family:"Cambria","serif";color:#4F81BD;text-align:center;'>Summary</h2>
-<h2 style='margin-top:10.0pt;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:17px;font-family:"Cambria","serif";color:#4F81BD;'>What is BiToolkits?</h2>
+<h2 style='margin-top:10.0pt;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:17px;font-family:"Cambria","serif";color:#4F81BD;text-align:center;'>What is BiToolkits?</h2>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'>&nbsp;</p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:.25in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'><span style="line-height:107%;color:black;">BiToolkits is a batch oriented productivity tool designed for the MicroStrategy B.I. platform. It eliminates many of the time-consuming, repetitive tasks associated with MicroStrategy development, administration and QA activities to deliver productivity and quality gains.</span></p>
-<h2 style='margin-top:10.0pt;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:17px;font-family:"Cambria","serif";color:#4F81BD;'>Who can benefit from BiToolkits?</h2>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'>&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'><strong><span style="font-size:16px;line-height:107%;color:black;">Report Developers</span></strong></p>
+<h2 style="margin: 10pt 0in 0.0001pt; line-height: 107%; font-size: 17px; font-family: Cambria, serif; color: rgb(79, 129, 189); text-align: center;">Who can benefit from BiToolkits?</h2>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'>&nbsp;<strong><span style="font-size:16px;line-height:107%;color:black;">Report Developers</span></strong></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:.25in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'><span style="color:black;">BiToolkits enables report developers to collect, organize and analyze information related to MicroStrategy objects. Below is a partial list of functions available to report developers:</span></p>
 <ul style="list-style-type: disc;">
     <li><span style="font-family:Calibri;">Perform in-depth change impact analysis</span></li>
@@ -31,8 +29,7 @@
     <li>Select impacted reports and feed into Integrity Manager for report data comparison (pre/post migration or for comparison across projects/environments)</li>
 </ul>
 <h2 style='margin-top:10.0pt;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:17px;font-family:"Cambria","serif";color:#4F81BD;text-align:center;'>Technology Highlights</h2>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'><strong><span style="font-size:16px;line-height:107%;color:black;">&nbsp;</span></strong></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'><strong><span style="font-size:16px;line-height:107%;color:black;">Object Finder</span></strong></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'><strong><span style="font-size:16px;line-height:107%;color:black;">&nbsp;</span></strong><strong><span style="font-size:16px;line-height:107%;color:black;">Object Finder</span></strong></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:.25in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'><span style="color:black;">The <em>Object Finder</em> tool offers advanced features to help you search objects/subscriptions based on various properties that are not available in the MicroStrategy&rsquo;s Search dialog box. Below is a partial list of its search capabilities:</span></p>
 <ul style="list-style-type: disc;">
     <li><span style="font-family:Calibri;color:black;">Search by all object types/sub-types/extended types, including table, column, FFSQL report, etc.</span></li>
