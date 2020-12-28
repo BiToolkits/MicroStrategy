@@ -14,7 +14,6 @@
 <li>Search objects/subscriptions based on various properties that are not available in the MicroStrategy&rsquo;s Search dialog box</li>
 </ul>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Administrators</strong></p>
 <p>BiToolkits delivers powerful features to automate repetitive and tedious tasks. Administrators can automate the following tasks:</p>
 <ul>
@@ -26,7 +25,6 @@
 <li>Maintain (add/Remove/Sync) hundreds of subscribers in thousands of subscriptions</li>
 <li>Change subscription schedules, rename subscriptions, change ownerships, etc.</li>
 </ul>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>QA Analysts</strong></p>
 <p>BiToolkits helps QA Analysts uncover side effects and validate changes. The following functions are available to help QA Analysts:</p>
