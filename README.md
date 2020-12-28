@@ -13,7 +13,6 @@
 <li>Find/rename duplicate object names</li>
 <li>Search objects/subscriptions based on various properties that are not available in the MicroStrategy&rsquo;s Search dialog box</li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Administrators</strong></p>
 <p>BiToolkits delivers powerful features to automate repetitive and tedious tasks. Administrators can automate the following tasks:</p>
 <ul>
