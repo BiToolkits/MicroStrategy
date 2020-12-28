@@ -1,60 +1,70 @@
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><strong><span style='font-size:24px;font-family:"Segoe UI","sans-serif";color:#24292E;'>What is BiToolkits?</span></strong></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>BiToolkits is a batch oriented productivity tool designed for the MicroStrategy B.I. platform. It eliminates many of the time-consuming, repetitive tasks associated with MicroStrategy development, administration and QA activities to deliver productivity and quality gains.</span></p>
-<p style='margin-top:20.1pt;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><strong><span style='font-size:24px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Who can benefit from BiToolkits?</span></strong></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>&nbsp;</span><strong><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Report Developers</span></strong></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>BiToolkits enables report developers to collect, organize and analyze information related to MicroStrategy objects. Below is a partial list of functions available to report developers:</span></p>
-<ul style="margin-bottom:0in;" type="disc">
-    <li style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Perform in-depth change impact analysis</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Identify active/inactive objects and delete obsolete objects</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Find/delete duplicate objects</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Find/rename duplicate object names</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Search objects/subscriptions based on various properties that are not available in the MicroStrategy&rsquo;s Search dialog box &nbsp;</span></li>
+<h2>What is BiToolkits?</h2>
+<p>&nbsp;</p>
+<p>BiToolkits is a batch oriented productivity tool designed for the MicroStrategy B.I. platform. It eliminates many of the time-consuming, repetitive tasks associated with MicroStrategy development, administration and QA activities to deliver productivity and quality gains.</p>
+<p>&nbsp;</p>
+<h2><a name="_Toc486078436"></a><a name="_Toc432229253"></a>Who can benefit from BiToolkits?</h2>
+<p>&nbsp;</p>
+<p><strong>Report Developers</strong></p>
+<p>BiToolkits enables report developers to collect, organize and analyze information related to MicroStrategy objects. Below is a partial list of functions available to report developers:</p>
+<ul>
+<li>Perform in-depth change impact analysis</li>
+<li>Identify active/inactive objects and delete obsolete objects</li>
+<li>Find/delete duplicate objects</li>
+<li>Find/rename duplicate object names</li>
+<li>Search objects/subscriptions based on various properties that are not available in the MicroStrategy&rsquo;s Search dialog box</li>
 </ul>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><strong><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Administrators</span></strong></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>BiToolkits delivers powerful features to automate repetitive and tedious tasks. Administrators can automate the following tasks:</span></p>
-<ul style="margin-bottom:0in;" type="disc">
-    <li style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Audit/correct permissions on all objects in a project</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Change ownership on thousands of objects</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Reorganize folder structures and move objects around</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Create web subscriptions for hundreds of reports</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Copy web subscriptions across projects/environments</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Maintain (add/Remove/Sync) hundreds of subscribers in thousands of subscriptions</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Change subscription schedules, rename subscriptions, change ownerships, etc.</span></li>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Administrators</strong></p>
+<p>BiToolkits delivers powerful features to automate repetitive and tedious tasks. Administrators can automate the following tasks:</p>
+<ul>
+<li>Audit/correct permissions on all objects in a project</li>
+<li>Change ownership on thousands of objects</li>
+<li>Reorganize folder structures and move objects around</li>
+<li>Create web subscriptions for hundreds of reports</li>
+<li>Copy web subscriptions across projects/environments</li>
+<li>Maintain (add/Remove/Sync) hundreds of subscribers in thousands of subscriptions</li>
+<li>Change subscription schedules, rename subscriptions, change ownerships, etc.</li>
 </ul>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><strong><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>QA Analysts</span></strong></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>BiToolkits helps QA Analysts uncover side effects and validate changes. The following functions are available to help QA Analysts:</span></p>
-<ul style="margin-bottom:0in;" type="disc">
-    <li style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Compare objects (and all their components) across projects/environments</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Select impacted reports and feed into Integrity Manager for report data comparison (pre/post migration or for comparison across projects/environments)</span></li>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>QA Analysts</strong></p>
+<p>BiToolkits helps QA Analysts uncover side effects and validate changes. The following functions are available to help QA Analysts:</p>
+<ul>
+<li>Compare objects (and all their components) across projects/environments</li>
+<li>Select impacted reports and feed into Integrity Manager for report data comparison (pre/post migration or for comparison across projects/environments)</li>
 </ul>
-<p style='margin-top:20.1pt;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><strong><span style='font-size:24px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Technology Highlights</span></strong></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><strong><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>&nbsp;Object Finder</span></strong></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>The&nbsp;</span><em><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Object Finder</span></em><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>&nbsp;tool offers advanced features to help you search objects/subscriptions based on various properties that are not available in the MicroStrategy&rsquo;s Search dialog box. Below is a partial list of its search capabilities:</span></p>
-<ul style="margin-bottom:0in;" type="disc">
-    <li style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Search by all object types/sub-types/extended types, including table, column, FFSQL report, etc.</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Search objects that use specific functions, such as objects use ApplySimple, &ldquo;*&rdquo; operator, etc.</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Search objects with explicit permissions (such as View) assigned to selected users/groups</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Search duplicate object names</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Search web subscriptions whose subscribers don&rsquo;t have permission to run reports</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Search duplicate web subscriptions</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Search web subscriptions by recipient, schedule, device, active/inactive status, etc.</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Search NCS subscriptions by recipient, schedule, device, active/inactive status, etc.</span></li>
+<h2>Technology Highlights</h2>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Object Finder</strong></p>
+<p>The <em>Object Finder</em> tool offers advanced features to help you search objects/subscriptions based on various properties that are not available in the MicroStrategy&rsquo;s Search dialog box. Below is a partial list of its search capabilities:</p>
+<ul>
+<li>Search by all object types/sub-types/extended types, including table, column, FFSQL report, etc.</li>
+<li>Search objects that use specific functions, such as objects use ApplySimple, &ldquo;*&rdquo; operator, etc.</li>
+<li>Search objects with explicit permissions (such as View) assigned to selected users/groups</li>
+<li>Search duplicate object names</li>
+<li>Search web subscriptions whose subscribers don&rsquo;t have permission to run reports</li>
+<li>Search duplicate web subscriptions</li>
+<li>Search web subscriptions by recipient, schedule, device, active/inactive status, etc.</li>
+<li>Search NCS subscriptions by recipient, schedule, device, active/inactive status, etc.</li>
 </ul>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><strong><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Recursive Search Engine</span></strong></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>In the heart of BiToolkits is a powerful recursive search engine which returns accurate results on all object types. Note MicroStrategy Object Manager&rsquo;s recursive search function does not work well on schema objects (see <a href="https://youtu.be/yjq-MsUOCYM"><span style="color:blue;text-decoration:none;">https://youtu.be/yjq-MsUOCYM</span></a>). The tasks below utilize the recursive search engine:</span></p>
-<ul style="margin-bottom:0in;" type="disc">
-    <li style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Change Impact Analysis</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Obsolete Object Cleanup</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Duplicate Object Cleanup</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Object Permission Cleanup</span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Object Comparison</span></li>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Recursive Search Engine</strong></p>
+<p>In the heart of BiToolkits is a powerful recursive search engine which returns accurate results on all object types. Note MicroStrategy Object Manager&rsquo;s recursive search function does not work well on schema objects (see <a href="https://youtu.be/yjq-MsUOCYM">https://youtu.be/yjq-MsUOCYM</a>). The tasks below utilize the recursive search engine:</p>
+<ul>
+<li>Change Impact Analysis</li>
+<li>Obsolete Object Cleanup</li>
+<li>Duplicate Object Cleanup</li>
+<li>Object Permission Cleanup</li>
+<li>Object Comparison</li>
 </ul>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><strong><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Enterprise Manager Integration</span></strong></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>The&nbsp;</span><em><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Last Use</span></em><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>&nbsp;tool gathers report usage information from Enterprise Manager to help you identify/cleanup obsolete objects. It goes a step further by utilizing the recursive search engine to include non-report objects (attributes/filters/metrics/etc.) usage information such as&nbsp;</span><strong><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>when</span></strong><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>&nbsp;it was last used,&nbsp;</span><strong><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>where</span></strong><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>&nbsp;it was last used, and&nbsp;</span><strong><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>who</span></strong><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>&nbsp;last used it.</span></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><strong><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Web Subscription Automation</span></strong></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:13.4pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";color:#24292E;'>Web subscription automation eliminates the tedious manual labor of maintaining large set of report subscriptions. Please click links below for more details:</span></p>
-<ul style="margin-bottom:0in;" type="disc">
-    <li style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Subscription Cloning: <a href="https://youtu.be/0CXR67BR4vY"><span style="color:blue;text-decoration:none;">https://youtu.be/0CXR67BR4vY</span></a></span></li>
-    <li style='margin-top:3.0pt;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri","sans-serif";color:#24292E;background:white;'><span style='font-size:18px;font-family:"Segoe UI","sans-serif";'>Subscriber Maintenance Automation: <a href="https://youtu.be/QkJzzLgK_qA"><span style="color:blue;text-decoration:none;">https://youtu.be/QkJzzLgK_qA</span></a></span></li>
+<p>&nbsp;</p>
+<p><strong>Enterprise Manager Integration</strong></p>
+<p>The <em>Last Use</em> tool gathers report usage information from Enterprise Manager to help you identify/cleanup obsolete objects. It goes a step further by utilizing the recursive search engine to include non-report objects (attributes/filters/metrics/etc.) usage information such as <strong>when</strong> it was last used, <strong>where</strong> it was last used, and <strong>who</strong> last used it.</p>
+<p>&nbsp;</p>
+<p><strong>Web Subscription Automation</strong></p>
+<p>Web subscription automation eliminates the tedious manual labor of maintaining large set of report subscriptions. Please click links below for more details:</p>
+<ul>
+<li>Subscriber Maintenance Automation: <a href="https://youtu.be/QkJzzLgK_qA">https://youtu.be/QkJzzLgK_qA</a></li>
+<li>Subscription Cloning: <a href="https://youtu.be/0CXR67BR4vY">https://youtu.be/0CXR67BR4vY</a></li>
 </ul>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";'>&nbsp;</p>
