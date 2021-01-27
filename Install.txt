@@ -1,5 +1,5 @@
-Data Pantheon BiToolkits for MicroStrategy® B.I. platform
-Copyright © 2020 Data Pantheon
+BiToolkits for MicroStrategy® B.I. platform
+Copyright © 2021 Chung Lau
 
 
 SOFTWARE INSTALLATION GUIDE
