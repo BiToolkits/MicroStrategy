@@ -56,8 +56,9 @@ BiToolkits Privacy Statement.pdf
 BiToolkits Users Manual.pdf
 BiToolkits.accde		==> Launch this program (it will be shown as "BiToolkits" if file extension is hidden)
 BiToolkits.lic			==> Generated when software is run or sent to you via email if you have purchased the software online
-BiToolkitsRepair.accde
+BiToolkits_CIA.mstr
 BiToolkits_Data.accdb
+BiToolkitsRepair.accde
 Deleting 10,000 Obsolete Objects.pdf
 FixMSCOMCTL.bat
 FixMSCOMCTL_Silent.bat
