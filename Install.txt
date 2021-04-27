@@ -13,6 +13,9 @@ The minimum hardware requirement is Intel x86 Pentium (or compatible) CPU with 4
 To be able to use this software, you need Microsoft® Access 2007 or higher (must be 32bit version).  If you don't have Microsoft Access, please install a free version of Access Runtime (see link below).  For multi-user setup, each workstation station must have MS Access 2007 or Access Runtime below.
 •	Download and install latest version of Microsoft Access 32bit Runtime (AccessRuntime_x86_en-us.exe) from Microsoft website https://www.microsoft.com/en-us/download/details.aspx?id=39358
 
+***Note if you already have a 64bit Office installed in your PC, you can must install a different version of 32bit Access runtime on the same PC. For example, if you have Office 365 v2016 or v2019 64bit installed, you must install v2007 or v2013 32bit Access runtime using link above.
+
+
 DATABASE REQUIREMENTS
 
 BiToolkits has its own database which connects to your MicroStrategy metadata databases (Intelligent Server, History List, Enterprise Manager, Narrowcast Server) for READ ONLY access.  It does not access your data warehouse database.
